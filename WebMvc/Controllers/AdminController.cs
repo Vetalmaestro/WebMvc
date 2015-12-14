@@ -34,6 +34,8 @@ namespace WebMvc.Controllers
                 }
             }
             return View(users);
+
+            // some comment
         }
     }
 }
